@@ -14,5 +14,5 @@
     "type": "image/png"
      }],
   "display": "standalone",
-  "start_url": "/Personal-Website/?utm_source=web_app_manifest"
+  "start_url": "/site/?utm_source=web_app_manifest"
 }

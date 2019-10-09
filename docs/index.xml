@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Saurabh Mishra</title>
-    <link>https://saurabh-29.github.io/Personal-Website/</link>
-      <atom:link href="https://saurabh-29.github.io/Personal-Website/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://saurabh-29.github.io/site/</link>
+      <atom:link href="https://saurabh-29.github.io/site/index.xml" rel="self" type="application/rss+xml" />
     <description>Saurabh Mishra</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://saurabh-29.github.io/Personal-Website/img/icon-192.png</url>
+      <url>https://saurabh-29.github.io/site/img/icon-192.png</url>
       <title>Saurabh Mishra</title>
-      <link>https://saurabh-29.github.io/Personal-Website/</link>
+      <link>https://saurabh-29.github.io/site/</link>
     </image>
     
     <item>
       <title>Example Page 1</title>
-      <link>https://saurabh-29.github.io/Personal-Website/courses/example/example1/</link>
+      <link>https://saurabh-29.github.io/site/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://saurabh-29.github.io/Personal-Website/courses/example/example1/</guid>
+      <guid>https://saurabh-29.github.io/site/courses/example/example1/</guid>
       <description>
 
 &lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
@@ -49,9 +49,9 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>https://saurabh-29.github.io/Personal-Website/courses/example/example2/</link>
+      <link>https://saurabh-29.github.io/site/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://saurabh-29.github.io/Personal-Website/courses/example/example2/</guid>
+      <guid>https://saurabh-29.github.io/site/courses/example/example2/</guid>
       <description>
 
 &lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
@@ -84,9 +84,9 @@
     
     <item>
       <title>Example Talk</title>
-      <link>https://saurabh-29.github.io/Personal-Website/talk/example/</link>
+      <link>https://saurabh-29.github.io/site/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://saurabh-29.github.io/Personal-Website/talk/example/</guid>
+      <guid>https://saurabh-29.github.io/site/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -107,9 +107,9 @@
     
     <item>
       <title>Waveglow Inference</title>
-      <link>https://saurabh-29.github.io/Personal-Website/project/waveglow-inference/</link>
+      <link>https://saurabh-29.github.io/site/project/waveglow-inference/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://saurabh-29.github.io/Personal-Website/project/waveglow-inference/</guid>
+      <guid>https://saurabh-29.github.io/site/project/waveglow-inference/</guid>
       <description>&lt;p&gt;Waveglow is a flow based model which converts noise to speech conditioned on mel-spectrograms through series of transformations. This project runs the Waveglow inference in CUDA C++ directly and gives speed-boost. It can also be used as a template for future CUDA Codes. More details are in this
 &lt;a href=&#34;https://github.com/Saurabh-29/Waveglow_Inference_in_CUDA&#34; target=&#34;_blank&#34;&gt;repo&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -117,9 +117,9 @@
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://saurabh-29.github.io/Personal-Website/publication/preprint/</link>
+      <link>https://saurabh-29.github.io/site/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://saurabh-29.github.io/Personal-Website/publication/preprint/</guid>
+      <guid>https://saurabh-29.github.io/site/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
@@ -132,9 +132,9 @@
     
     <item>
       <title>Slides</title>
-      <link>https://saurabh-29.github.io/Personal-Website/slides/example/</link>
+      <link>https://saurabh-29.github.io/site/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://saurabh-29.github.io/Personal-Website/slides/example/</guid>
+      <guid>https://saurabh-29.github.io/site/slides/example/</guid>
       <description>
 
 &lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
@@ -313,18 +313,18 @@ $$&lt;/p&gt;
     
     <item>
       <title>Federated Learning</title>
-      <link>https://saurabh-29.github.io/Personal-Website/project/federated-learning/</link>
+      <link>https://saurabh-29.github.io/site/project/federated-learning/</link>
       <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://saurabh-29.github.io/Personal-Website/project/federated-learning/</guid>
+      <guid>https://saurabh-29.github.io/site/project/federated-learning/</guid>
       <description>&lt;p&gt;The project solved the problem of L1 regularized regression task to reduce latency under different communication protocols when data is distributed across multiple heterogeneous devices i.e. in Federated Setting. Data is distributed across devices, with no central copy, model is trained on edge devices and parameters are shared across different devices through servers. Different compute capability, network capability and asynchronous nature make the problem challenging. We proposed &lt;strong&gt;FADMM: A faster approach to federated optimization&lt;/strong&gt; which achieved faster convergence than baselines. You can find the detailed report &lt;a href=&#34;https://docs.google.com/document/d/160m1Udb0F0XXdvRwF-kjr9d6KSmkjjc0nTSte7gdddE/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Speech Synthesis</title>
-      <link>https://saurabh-29.github.io/Personal-Website/project/text-2-speech/</link>
+      <link>https://saurabh-29.github.io/site/project/text-2-speech/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://saurabh-29.github.io/Personal-Website/project/text-2-speech/</guid>
+      <guid>https://saurabh-29.github.io/site/project/text-2-speech/</guid>
       <description>&lt;p&gt;I have been working on this project for last 1 year. This project dealt with the problem of automated Speech Synthesis for Indian Languages that resembles, as closely as possible, a native speaker of the language. I was involved end-to-end in this project. It comprised of various steps such as:&lt;/p&gt;
 
 &lt;p&gt;1) &lt;strong&gt;Data Collection&lt;/strong&gt;- Collection data from various sources such as audio-books, studio recording. We also used some open-source datasets like LjSpeech, VCTK etc.&lt;/p&gt;
@@ -347,25 +347,25 @@ $$&lt;/p&gt;
     
     <item>
       <title>Blog on Auto-regressive Generative Models</title>
-      <link>https://saurabh-29.github.io/Personal-Website/post/auto-regressive/</link>
+      <link>https://saurabh-29.github.io/site/post/auto-regressive/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://saurabh-29.github.io/Personal-Website/post/auto-regressive/</guid>
+      <guid>https://saurabh-29.github.io/site/post/auto-regressive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blog on Computer Vision Algorithms</title>
-      <link>https://saurabh-29.github.io/Personal-Website/post/intro-to-cv/</link>
+      <link>https://saurabh-29.github.io/site/post/intro-to-cv/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://saurabh-29.github.io/Personal-Website/post/intro-to-cv/</guid>
+      <guid>https://saurabh-29.github.io/site/post/intro-to-cv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An example journal article</title>
-      <link>https://saurabh-29.github.io/Personal-Website/publication/journal-article/</link>
+      <link>https://saurabh-29.github.io/site/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://saurabh-29.github.io/Personal-Website/publication/journal-article/</guid>
+      <guid>https://saurabh-29.github.io/site/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -384,9 +384,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example conference paper</title>
-      <link>https://saurabh-29.github.io/Personal-Website/publication/conference-paper/</link>
+      <link>https://saurabh-29.github.io/site/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://saurabh-29.github.io/Personal-Website/publication/conference-paper/</guid>
+      <guid>https://saurabh-29.github.io/site/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

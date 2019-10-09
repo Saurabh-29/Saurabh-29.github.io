@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Saurabh Mishra</title>
-    <link>https://saurabh-29.github.io/Personal-Website/authors/</link>
-      <atom:link href="https://saurabh-29.github.io/Personal-Website/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://saurabh-29.github.io/site/authors/</link>
+      <atom:link href="https://saurabh-29.github.io/site/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://saurabh-29.github.io/Personal-Website/img/icon-192.png</url>
+      <url>https://saurabh-29.github.io/site/img/icon-192.png</url>
       <title>Authors</title>
-      <link>https://saurabh-29.github.io/Personal-Website/authors/</link>
+      <link>https://saurabh-29.github.io/site/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://saurabh-29.github.io/Personal-Website/authors/admin/</link>
+      <link>https://saurabh-29.github.io/site/authors/admin/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://saurabh-29.github.io/Personal-Website/authors/admin/</guid>
+      <guid>https://saurabh-29.github.io/site/authors/admin/</guid>
       <description>&lt;p&gt;I’m currently working, as a Research Software Engineer at Liv.ai, on developing a Deep Learning based Text-to-Speech system for Indian languages. Previously, I graduated from IIT Roorkee, with a B.Tech. in Electrical Engineering with minors in Computer Science. I have a keen interest in data-driven Machine/Deep Learning research, particularly in the use of deep neural models for Computer Vision and Speech Synthesis tasks. At my home institution, I have primarily worked with Dr. G. K. Pillai. As a Research Intern at Adobe Research Labs, I worked with Dr. Sunav Choudhary on task Design of Algorithm for Federated Learning.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Robert Ford</title>
-      <link>https://saurabh-29.github.io/Personal-Website/authors/robert-ford/</link>
+      <link>https://saurabh-29.github.io/site/authors/robert-ford/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://saurabh-29.github.io/Personal-Website/authors/robert-ford/</guid>
+      <guid>https://saurabh-29.github.io/site/authors/robert-ford/</guid>
       <description></description>
     </item>
     

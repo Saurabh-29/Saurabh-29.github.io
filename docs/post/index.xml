@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Saurabh Mishra</title>
-    <link>https://saurabh-29.github.io/Personal-Website/post/</link>
-      <atom:link href="https://saurabh-29.github.io/Personal-Website/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://saurabh-29.github.io/site/post/</link>
+      <atom:link href="https://saurabh-29.github.io/site/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://saurabh-29.github.io/Personal-Website/img/icon-192.png</url>
+      <url>https://saurabh-29.github.io/site/img/icon-192.png</url>
       <title>Posts</title>
-      <link>https://saurabh-29.github.io/Personal-Website/post/</link>
+      <link>https://saurabh-29.github.io/site/post/</link>
     </image>
     
     <item>
       <title>Blog on Auto-regressive Generative Models</title>
-      <link>https://saurabh-29.github.io/Personal-Website/post/auto-regressive/</link>
+      <link>https://saurabh-29.github.io/site/post/auto-regressive/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://saurabh-29.github.io/Personal-Website/post/auto-regressive/</guid>
+      <guid>https://saurabh-29.github.io/site/post/auto-regressive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blog on Computer Vision Algorithms</title>
-      <link>https://saurabh-29.github.io/Personal-Website/post/intro-to-cv/</link>
+      <link>https://saurabh-29.github.io/site/post/intro-to-cv/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://saurabh-29.github.io/Personal-Website/post/intro-to-cv/</guid>
+      <guid>https://saurabh-29.github.io/site/post/intro-to-cv/</guid>
       <description></description>
     </item>
     
