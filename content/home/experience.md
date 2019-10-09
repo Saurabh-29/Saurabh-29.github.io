@@ -18,27 +18,22 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Research Software Engineer"
+  company = "Liv.ai (Flipkart Voice Team)"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Bangalore"
+  date_start = "2018-06-18"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """ I worked on Speech Synthesis for Indian Languages. The project was focused on generating real time text to speech models for hindi and english language. This project involved developing the model from scratch i.e. from  collecting and processing data, training models and writing code in Cuda for faster inference.
+  Models used are : Tacotron, DeepVoice, Wavenet, Waveglow, Clarinet. """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research Intern"
+  company = "Adobe Research"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Bangalore"
+  date_start = "2017-05-08"
+  date_end = "2017-07-25"
+  description = """The project solved the problem of L1 regularized regression task to reduce latency under different communication protocols when data is distributed across multiple heterogeneous devices. Achieved much faster convergence speed than baseline models."""
 
 +++

@@ -5,7 +5,7 @@
     <link>https://saurabh-29.github.io/site/project/</link>
       <atom:link href="https://saurabh-29.github.io/site/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://saurabh-29.github.io/site/img/icon-192.png</url>
       <title>Projects</title>
@@ -13,27 +13,46 @@
     </image>
     
     <item>
-      <title>External Project</title>
-      <link>https://saurabh-29.github.io/site/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://saurabh-29.github.io/site/project/external-project/</guid>
-      <description></description>
+      <title>Waveglow Inference</title>
+      <link>https://saurabh-29.github.io/site/project/waveglow-inference/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://saurabh-29.github.io/site/project/waveglow-inference/</guid>
+      <description>&lt;p&gt;Waveglow is a flow based model which converts noise to speech conditioned on mel-spectrograms through series of transformations. This project runs the Waveglow inference in CUDA C++ directly and gives speed-boost. It can also be used as a template for future CUDA Codes. More details are in this
+&lt;a href=&#34;https://github.com/Saurabh-29/Waveglow_Inference_in_CUDA&#34; target=&#34;_blank&#34;&gt;repo&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Internal Project</title>
-      <link>https://saurabh-29.github.io/site/project/internal-project/</link>
+      <title>Federated Learning</title>
+      <link>https://saurabh-29.github.io/site/project/federated-learning/</link>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://saurabh-29.github.io/site/project/federated-learning/</guid>
+      <description>&lt;p&gt;The project solved the problem of L1 regularized regression task to reduce latency under different communication protocols when data is distributed across multiple heterogeneous devices i.e. in Federated Setting. Data is distributed across devices, with no central copy, model is trained on edge devices and parameters are shared across different devices through servers. Different compute capability, network capability and asynchronous nature make the problem challenging. We proposed &lt;strong&gt;FADMM: A faster approach to federated optimization&lt;/strong&gt; which achieved faster convergence than baselines. You can find the detailed report &lt;a href=&#34;https://docs.google.com/document/d/160m1Udb0F0XXdvRwF-kjr9d6KSmkjjc0nTSte7gdddE/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Speech Synthesis</title>
+      <link>https://saurabh-29.github.io/site/project/text-2-speech/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://saurabh-29.github.io/site/project/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+      <guid>https://saurabh-29.github.io/site/project/text-2-speech/</guid>
+      <description>&lt;p&gt;I have been working on this project for last 1 year. This project dealt with the problem of automated Speech Synthesis for Indian Languages that resembles, as closely as possible, a native speaker of the language. I was involved end-to-end in this project. It comprised of various steps such as:&lt;/p&gt;
 
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;1) &lt;strong&gt;Data Collection&lt;/strong&gt;- Collection data from various sources such as audio-books, studio recording. We also used some open-source datasets like LjSpeech, VCTK etc.&lt;/p&gt;
 
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;2) &lt;strong&gt;Data Cleaning&lt;/strong&gt;- Cleaning data to get the non-noisy audio-text aligned pairs&lt;/p&gt;
 
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;3) &lt;strong&gt;Training Models&lt;/strong&gt;- It involved working on models like Tacotron, Voiceloop for text to mel systems and working on models for Wavenet, Parellel Wavenet, Clarinet and Waveglow for mel to speech systems.&lt;/p&gt;
 
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;p&gt;4) &lt;strong&gt;CUDA Inference&lt;/strong&gt;- Write the CUDA inference of models for faster inference.&lt;/p&gt;
+
+&lt;p&gt;The project also involved working on some sub-projects to improve the overall MOS(Mean Opinion Score) such as:&lt;/p&gt;
+
+&lt;p&gt;1) &lt;strong&gt;Prosody Transfer&lt;/strong&gt;-  For making the speech more prosodic(natural)&lt;/p&gt;
+
+&lt;p&gt;2) &lt;strong&gt;Multi-Speaker TTS&lt;/strong&gt;-  To add multi-speaker support in our model&lt;/p&gt;
+
+&lt;p&gt;3) &lt;strong&gt;Speaker-Separation&lt;/strong&gt;-  For separating dominant speakers from other spakers, used in data collection&lt;/p&gt;
 </description>
     </item>
     

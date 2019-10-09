@@ -33,18 +33,28 @@
   </url>
   
   <url>
-    <loc>https://saurabh-29.github.io/site/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <loc>https://saurabh-29.github.io/site/tags/deep-learning/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://saurabh-29.github.io/site/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+    <loc>https://saurabh-29.github.io/site/project/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saurabh-29.github.io/site/tags/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saurabh-29.github.io/site/project/waveglow-inference/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://saurabh-29.github.io/site/authors/admin/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -59,7 +69,7 @@
   
   <url>
     <loc>https://saurabh-29.github.io/site/authors/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -78,16 +88,6 @@
   </url>
   
   <url>
-    <loc>https://saurabh-29.github.io/site/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://saurabh-29.github.io/site/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://saurabh-29.github.io/site/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
@@ -98,47 +98,27 @@
   </url>
   
   <url>
-    <loc>https://saurabh-29.github.io/site/tags/deep-learning/</loc>
+    <loc>https://saurabh-29.github.io/site/project/federated-learning/</loc>
+    <lastmod>2017-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saurabh-29.github.io/site/project/text-2-speech/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://saurabh-29.github.io/site/tags/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://saurabh-29.github.io/site/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://saurabh-29.github.io/site/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://saurabh-29.github.io/site/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://saurabh-29.github.io/site/tags/academic/</loc>
+    <loc>https://saurabh-29.github.io/site/post/auto-regressive/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://saurabh-29.github.io/site/post/getting-started/</loc>
+    <loc>https://saurabh-29.github.io/site/post/intro-to-cv/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://saurabh-29.github.io/site/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://saurabh-29.github.io/site/categories/demo/</loc>
+    <loc>https://saurabh-29.github.io/site/post/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -165,6 +145,10 @@
   <url>
     <loc>https://saurabh-29.github.io/site/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saurabh-29.github.io/site/categories/</loc>
   </url>
   
   <url>

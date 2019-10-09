@@ -5,20 +5,12 @@
     <link>https://saurabh-29.github.io/site/categories/</link>
       <atom:link href="https://saurabh-29.github.io/site/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>https://saurabh-29.github.io/site/img/icon-192.png</url>
       <title>Categories</title>
       <link>https://saurabh-29.github.io/site/categories/</link>
     </image>
-    
-    <item>
-      <title>Demo</title>
-      <link>https://saurabh-29.github.io/site/categories/demo/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://saurabh-29.github.io/site/categories/demo/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

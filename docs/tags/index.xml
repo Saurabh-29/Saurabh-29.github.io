@@ -5,7 +5,7 @@
     <link>https://saurabh-29.github.io/site/tags/</link>
       <atom:link href="https://saurabh-29.github.io/site/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://saurabh-29.github.io/site/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,34 +13,18 @@
     </image>
     
     <item>
-      <title>Source Themes</title>
-      <link>https://saurabh-29.github.io/site/tags/source-themes/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://saurabh-29.github.io/site/tags/source-themes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Deep Learning</title>
       <link>https://saurabh-29.github.io/site/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://saurabh-29.github.io/site/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>https://saurabh-29.github.io/site/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://saurabh-29.github.io/site/tags/demo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Academic</title>
-      <link>https://saurabh-29.github.io/site/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://saurabh-29.github.io/site/tags/academic/</guid>
+      <title>Source Themes</title>
+      <link>https://saurabh-29.github.io/site/tags/source-themes/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://saurabh-29.github.io/site/tags/source-themes/</guid>
       <description></description>
     </item>
     
