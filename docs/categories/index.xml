@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Academic</title>
-    <link>/categories/</link>
-      <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://saurabh-29.github.io/site/categories/</link>
+      <atom:link href="https://saurabh-29.github.io/site/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://saurabh-29.github.io/site/img/icon-192.png</url>
       <title>Categories</title>
-      <link>/categories/</link>
+      <link>https://saurabh-29.github.io/site/categories/</link>
     </image>
     
     <item>
       <title>Demo</title>
-      <link>/categories/demo/</link>
+      <link>https://saurabh-29.github.io/site/categories/demo/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/categories/demo/</guid>
+      <guid>https://saurabh-29.github.io/site/categories/demo/</guid>
       <description></description>
     </item>
     
