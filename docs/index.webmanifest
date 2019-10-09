@@ -1,6 +1,6 @@
 {
-  "name": "Academic",
-  "short_name": "Academic",
+  "name": "Saurabh Mishra",
+  "short_name": "Saurabh Mishra",
   "lang": "en-us",
   "theme_color": "#2962ff",
   "background_color": "#2962ff",
@@ -14,5 +14,5 @@
     "type": "image/png"
      }],
   "display": "standalone",
-  "start_url": "/site/?utm_source=web_app_manifest"
+  "start_url": "/Personal-Website/?utm_source=web_app_manifest"
 }

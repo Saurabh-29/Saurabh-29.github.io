@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories | Academic</title>
-    <link>https://saurabh-29.github.io/site/categories/</link>
-      <atom:link href="https://saurabh-29.github.io/site/categories/index.xml" rel="self" type="application/rss+xml" />
+    <title>Categories | Saurabh Mishra</title>
+    <link>https://saurabh-29.github.io/Personal-Website/categories/</link>
+      <atom:link href="https://saurabh-29.github.io/Personal-Website/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://saurabh-29.github.io/site/img/icon-192.png</url>
+      <url>https://saurabh-29.github.io/Personal-Website/img/icon-192.png</url>
       <title>Categories</title>
-      <link>https://saurabh-29.github.io/site/categories/</link>
+      <link>https://saurabh-29.github.io/Personal-Website/categories/</link>
     </image>
     
   </channel>

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
-    <link>https://saurabh-29.github.io/site/authors/admin/</link>
-      <atom:link href="https://saurabh-29.github.io/site/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <title>Saurabh Mishra</title>
+    <link>https://saurabh-29.github.io/Personal-Website/authors/admin/</link>
+      <atom:link href="https://saurabh-29.github.io/Personal-Website/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Saurabh Mishra</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://saurabh-29.github.io/site/img/icon-192.png</url>
-      <title>Academic</title>
-      <link>https://saurabh-29.github.io/site/authors/admin/</link>
+      <url>https://saurabh-29.github.io/Personal-Website/img/icon-192.png</url>
+      <title>Saurabh Mishra</title>
+      <link>https://saurabh-29.github.io/Personal-Website/authors/admin/</link>
     </image>
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://saurabh-29.github.io/site/publication/preprint/</link>
+      <link>https://saurabh-29.github.io/Personal-Website/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://saurabh-29.github.io/site/publication/preprint/</guid>
+      <guid>https://saurabh-29.github.io/Personal-Website/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
@@ -29,25 +29,25 @@
     
     <item>
       <title>Blog on Auto-regressive Generative Models</title>
-      <link>https://saurabh-29.github.io/site/post/auto-regressive/</link>
+      <link>https://saurabh-29.github.io/Personal-Website/post/auto-regressive/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://saurabh-29.github.io/site/post/auto-regressive/</guid>
+      <guid>https://saurabh-29.github.io/Personal-Website/post/auto-regressive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blog on Computer Vision Algorithms</title>
-      <link>https://saurabh-29.github.io/site/post/intro-to-cv/</link>
+      <link>https://saurabh-29.github.io/Personal-Website/post/intro-to-cv/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://saurabh-29.github.io/site/post/intro-to-cv/</guid>
+      <guid>https://saurabh-29.github.io/Personal-Website/post/intro-to-cv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An example journal article</title>
-      <link>https://saurabh-29.github.io/site/publication/journal-article/</link>
+      <link>https://saurabh-29.github.io/Personal-Website/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://saurabh-29.github.io/site/publication/journal-article/</guid>
+      <guid>https://saurabh-29.github.io/Personal-Website/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -66,9 +66,9 @@
     
     <item>
       <title>An example conference paper</title>
-      <link>https://saurabh-29.github.io/site/publication/conference-paper/</link>
+      <link>https://saurabh-29.github.io/Personal-Website/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://saurabh-29.github.io/site/publication/conference-paper/</guid>
+      <guid>https://saurabh-29.github.io/Personal-Website/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

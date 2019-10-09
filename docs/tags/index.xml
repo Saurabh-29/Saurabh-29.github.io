@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Academic</title>
-    <link>https://saurabh-29.github.io/site/tags/</link>
-      <atom:link href="https://saurabh-29.github.io/site/tags/index.xml" rel="self" type="application/rss+xml" />
+    <title>Tags | Saurabh Mishra</title>
+    <link>https://saurabh-29.github.io/Personal-Website/tags/</link>
+      <atom:link href="https://saurabh-29.github.io/Personal-Website/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://saurabh-29.github.io/site/img/icon-192.png</url>
+      <url>https://saurabh-29.github.io/Personal-Website/img/icon-192.png</url>
       <title>Tags</title>
-      <link>https://saurabh-29.github.io/site/tags/</link>
+      <link>https://saurabh-29.github.io/Personal-Website/tags/</link>
     </image>
     
     <item>
       <title>Deep Learning</title>
-      <link>https://saurabh-29.github.io/site/tags/deep-learning/</link>
+      <link>https://saurabh-29.github.io/Personal-Website/tags/deep-learning/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://saurabh-29.github.io/site/tags/deep-learning/</guid>
+      <guid>https://saurabh-29.github.io/Personal-Website/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Source Themes</title>
-      <link>https://saurabh-29.github.io/site/tags/source-themes/</link>
+      <link>https://saurabh-29.github.io/Personal-Website/tags/source-themes/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://saurabh-29.github.io/site/tags/source-themes/</guid>
+      <guid>https://saurabh-29.github.io/Personal-Website/tags/source-themes/</guid>
       <description></description>
     </item>
     
